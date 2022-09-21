@@ -71,7 +71,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈𝘼𝙏𝙏𝙀𝙉𝘿 𝙎'𝙄𝙇 𝙏𝙀 𝙋𝙇𝘼𝙄𝙏🪄...',
+    wait: '🪄𝘼𝙏𝙏𝙀𝙉𝘿 𝙎'𝙄𝙇 𝙏𝙀 𝙋𝙇𝘼𝙄𝙏🪄...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
